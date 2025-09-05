@@ -1,5 +1,13 @@
 # React + Vite
 
+Sample .env file :-
+VITE_REACT_APP_API_URL=http://localhost:8001
+
+For running ity locally, follow these:-
+- Clone the repo
+- npm i (to install dependencies)
+- npm run dev (to run the frontend)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
