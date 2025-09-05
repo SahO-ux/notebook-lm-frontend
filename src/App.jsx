@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { Toaster } from "react-hot-toast";
 
-import Navbar from "./components/Navbar";
-import FileUploader from "./components/FileUploader";
-import PDFViewer from "./components/PDFViewer";
-import ChatWindow from "./components/ChatWindow";
+import Navbar from "./Components/Navbar";
+import FileUploader from "./Components/FileUploader";
+import PDFViewer from "./Components/PDFViewer";
+import ChatWindow from "./Components/ChatWindow";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function App() {
